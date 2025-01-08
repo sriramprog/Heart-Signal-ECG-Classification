@@ -1,4 +1,4 @@
-# Heart-Signal-ECG-Classification
+# HeartSignal Classifier Project
 
 This repository contains a Python script that performs ECG rhythm classification using a 1D Convolutional Neural Network (CNN). The script processes ECG data, trains a deep learning model to classify heartbeats into three categories: normal sinus rhythm, atrial fibrillation, and other rhythms, and evaluates the model's performance using accuracy metrics and visualization.
 
