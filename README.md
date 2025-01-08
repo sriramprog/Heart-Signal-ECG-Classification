@@ -3,7 +3,7 @@
 This repository contains a Python script that performs ECG rhythm classification using a 1D Convolutional Neural Network (CNN). The script processes ECG data, trains a deep learning model to classify heartbeats into three categories: normal sinus rhythm, atrial fibrillation, and other rhythms, and evaluates the model's performance using accuracy metrics and visualization.
 
 **Code Overview**
-File: ECG_Classification (Updated).py
+File: ECG Classification (Updated).py
 The single code file encapsulates the entire pipeline from data preprocessing to model training and evaluation. 
 
 Key steps include: <br>
@@ -15,13 +15,13 @@ Key steps include: <br>
 
 How to Use:
 1. Clone the Repository:
-git clone https://github.com/your-username/ecg-classification.git
+git clone https://github.com/sriramprog/Heart-Signal-ECG-Classification/blob/main/ECG%20Classification%20(Updated).ipynb
 
-2. Install Dependencies:
+3. Install Dependencies:
 Ensure that you have all the required libraries:
 pip install -r requirements.txt
 
-3. Run the Script: Execute the code using:
+4. Run the Script: Execute the code using:
 python ECG_Classification.py
 View the Results: The script will output training and validation accuracy graphs. Adjust hyperparameters as needed to optimize model performance.
 
