@@ -29,4 +29,4 @@ Execute the code by running python ECG_Classification.py
 The script will output training and validation accuracy graphs. Adjust hyperparameters as needed to optimize model performance.
 
 _**References:**_ <br>
-For a more detailed description of the project, including background, experimental setup, and results, please visit my Notion Repository.
+For a more detailed description of the project, including background, experimental setup, and results, please visit my [Notion Repository](https://prickle-individual-755.notion.site/Project-2-HeartSignal-Classifier-13ef9c7e943080ff88d6c305cd97faec).
